@@ -76,10 +76,14 @@ podemos acionar imagens usando \!\[descrição]\(Endereço)
 Boas iniciativas merecem aplausos :clap:
 
 Faos importantes merecem atenção :eyes:
+<<<<<<< HEAD
 
 
 Momentos difíceis requerem força :muscle:
 
 
+=======
+Momentos difíceis requerem força :muscle:
+>>>>>>> origin/master
 Mensagem bem escritas merecem um like :+1:
 
